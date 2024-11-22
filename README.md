@@ -41,3 +41,21 @@ Installation and Setup
  task 2 - test their project and their work
  approve them 
  start work
+ Installation
+Follow these steps to set up the Saloon Management System on your local machine:
+
+Prerequisites
+Node.js (for backend setup)
+npm (comes with Node.js)
+Git
+A text editor like Visual Studio Code
+Steps
+Clone the repository
+Open your terminal and run:
+Usage
+Key Features:
+Appointment Scheduling: Manage bookings for customers.
+Customer Records: Keep detailed profiles of customers.
+Employee Management: Track schedules and availability.
+Billing: Generate invoices for services rendered.
+Running the Application:
