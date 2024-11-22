@@ -37,3 +37,7 @@ Installation and Setup
  CREATE REPOSITRY
  clone it 
  
+ task 1- find new team mate
+ task 2 - test their project and their work
+ approve them 
+ start work
